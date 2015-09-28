@@ -3454,6 +3454,13 @@ public final class Settings {
          public static final String VOLUME_KEY_CURSOR_CONTROL = "volume_key_cursor_control";
 
         /**
+         * Toast icon
+         *
+         * @hide
+         */
+        public static final String TOAST_ICON = "toast_icon";
+
+        /**
          * Show search bar in recents
          * @hide
          */
